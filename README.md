@@ -114,14 +114,14 @@ To build a **Comprehensive Role-Based E-Commerce Management System** that:
 
 | Package      | Monthly Fee | One-Time Setup |
 |--------------|-------------|----------------|
-| **Starter** (1 Module) | Rs. 35,000 | Rs. 150,000 |
-| **Growth** (3 Modules) | Rs. 95,000 | Rs. 350,000 |
-| **Premium** (6 Modules) | Rs. 185,000 | Rs. 700,000 |
-| **Enterprise** (10 Modules) | Rs. 295,000 | Rs. 1,000,000 |
+| **Starter** (1 Module) | TBD | TBD |
+| **Growth** (3 Modules) | TBD | TBD |
+| **Premium** (6 Modules) | TBD | TBD |
+| **Enterprise** (10 Modules) | TBD | TBD |
 
 ### One-Time License
-- **Up to 5 Modules** → Rs. 2,500,000  
-- **Up to 10 Modules** → Rs. 4,500,000  
+- **Up to 5 Modules** → TBD  
+- **Up to 10 Modules** → TBD  
 
 ### Perpetual On-Premises
 - Installed on client’s servers (lifetime access)  
